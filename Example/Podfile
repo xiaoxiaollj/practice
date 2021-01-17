@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LLJTakePhoto_Tests' do
+  pod 'LLJTakePhoto', :path => '../'
+  
+  
+end
